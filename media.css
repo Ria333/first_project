@@ -1,0 +1,188 @@
+@media screen and (max-width: 480px){
+    .header_image img {
+        padding-left: 20px;
+    }
+
+    .header_menu__items {
+        display: none
+    }
+
+    .text1 p, .text2 p {
+        width: 400px;
+        text-align: justify;
+    }
+
+    .text1 h1, .text2 h2 {
+        font-size: 50px;
+    }
+
+    .text2 h2 {
+        max-width: 300px;
+    }
+
+    .third_content {
+        margin-top: 30px;
+    }
+
+    .third_content {
+        margin-left: -105px;
+    }
+
+    .zmall {
+        margin-top: 130px;
+    }
+
+
+    .three_little_texts {
+        display: block;
+    }
+
+    .text333 {
+        margin-top: -65px;
+        max-width: 400px;
+        text-align: justify;
+    }
+
+    .text777 {
+        margin-left: 145px;
+        margin-top: -90px;
+        max-width: 400px;
+        text-align: justify;
+    }
+
+    .text999 {
+        margin-left: 145px;
+        margin-top: -90px;
+        max-width: 400px;
+        text-align: justify;
+    }
+
+    .chief_of_pink_button {
+        margin-top: -55px;
+    }
+
+    .image1 img, .image2 img, .image3 img {
+        display: none
+    }
+
+    .text_about_the_rockets {
+        display: block;
+    }
+
+    .title_of_the_first_text h4 {
+        margin-top: -40px;
+    }
+
+    .another_title h2 {
+        margin-top: 55px;
+        font-size: 43px;
+    }
+
+    .buttons_chef {
+        display: none
+    }
+
+    .logo img {
+        display: none
+    }
+
+    .logo2 img {
+        display: none
+    }
+
+    .three_little_pictures img {
+        display: none
+    }
+
+    .logoshg img {
+        display: none
+    }
+
+    .tender_block {
+        display: none
+    }
+
+    .everything_does {
+        display: none
+    }
+
+    .text1111 h2 {
+        font-size: 40px;
+    }
+
+    .text1111 p {
+        max-width: 400px;
+        text-align: justify;
+    }
+
+    .text1111 h2 {
+        margin-top: -20px;
+    }
+
+    .smalley {
+        margin-top: 115px;
+    }
+
+    .blue_blockey {
+        display: none;
+    }
+
+    .footer {
+        background: white;
+        height: 1000px;
+        width: 400px;
+    }
+
+    .last1 {
+        display: block;
+
+    }
+
+    .title78, .title708, .title798, .title738 {
+        color: black;
+    }
+
+    .footer_items a {
+        color: black;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .title90 {
+        color: black;
+    }
+
+    .con .title91 {
+        display: block;
+        color: black;
+    }
+
+    .logo555_1 {
+        color: black;
+    }
+
+    .logo555_2, .logo555_3 {
+        display: none
+    }
+
+    .last_logo {
+        display: none
+    }
+
+    .image_of_a img {
+        margin-top: 85px;
+    }
+
+    .another_cont2 {
+        margin-left: 145px;
+    }
+
+    .another_cont3 {
+        margin-left: 145px;
+    }
+
+    .another_cont4 {
+        margin-left: 145px;
+    }
+
+    body > div.footer > div.last1.d-flex > div.another_cont2.margl60 > div > div:nth-child(margin-left: 170px;) }

@@ -1,0 +1,523 @@
+
+body {
+    width: 1440px;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.font_size18 {
+    font-size: 18px;
+}
+
+.color_white {
+    color: white;
+}
+
+.margl145 {
+    margin-left: 145px;
+}
+
+.margl60 {
+    margin-left: 60px;
+}
+
+.margl73 {
+    margin-left: 73px;
+}
+
+.margl143 {
+    margin-left: 143px;
+}
+
+.margt62 {
+    margin-top: 62px;
+}
+
+.margt {
+    margin-top: 78px;
+}
+
+.color_rgba {
+    color: rgba(255, 255, 255, 0.45);
+}
+
+.gap22 {
+    column-gap: 22px;
+}
+
+.gap18 {
+    column-gap: 18px;
+}
+
+.height50 {
+    height: 50px;
+}
+
+.gap130 {
+    column-gap: 130px;
+}
+
+.font28 {
+    font-size: 28px;
+}
+
+.font18 {
+    font-size: 18px;
+}
+
+.marg24 {
+    margin-top: 24px;
+}
+
+.marg82 {
+    margin-top: 82px;
+}
+
+.header {
+    margin-top: 37px;
+    display: flex;
+}
+
+.common.d-flex {
+    margin-left: 141px;
+}
+
+.header_menu__items a {
+    text-decoration: none;
+    color: black;
+}
+
+.menu_buttons {
+    margin: -20px 0 0 27px;
+}
+
+.header_menu__items > a {
+    font-size: 18px;
+}
+
+.header_image > img {
+    margin-left: 145px;
+}
+
+.button_login {
+    background: white;
+    border-radius: 100px;
+    border: 1px solid black;
+    padding: 14px 25px 14px 25px;
+    margin-top: 5px;
+    font-size: 18px;
+    box-sizing: border-box;
+}
+
+.button_login:hover {
+    transition: 300ms;
+    background: cornflowerblue;
+}
+
+.button_talk {
+    background: black;
+    border-radius: 100px;
+    padding: 14px 25px 14px 25px;
+    color: white;
+    margin-top: 5px;
+    height: 50px;
+    font-size: 18px;
+    box-sizing: border-box;
+}
+
+.button_talk:hover {
+    transition: 300ms;
+    background: cornflowerblue;
+}
+
+.second_content {
+    margin-top: 30px;
+}
+
+.text1 {
+    margin: -5px 48px 1px 145px;
+    font-size: 20px;
+    max-width: 490px;
+}
+
+h1 {
+    font-size: 63px;
+}
+
+.logo img {
+    margin-right: 50px;
+}
+
+.click {
+    background: black;
+    border-radius: 10px;
+    color: white;
+    height: 26px;
+    font-size: 22px;
+}
+
+.zmall {
+    position: relative;
+    top: -80px;
+}
+
+.small {
+    position: absolute;
+    left: 145px;
+    top: -75px;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.line {
+    height: 1px;
+    width: 1440px;
+    background: rgba(177, 190, 173, 0.44);
+    position: relative;
+}
+
+.third_content {
+    margin-top: 126px;
+}
+
+.text2 > h2 {
+    font-size: 57px;
+    margin-top: -30px;
+}
+
+.text2 > p {
+    font-size: 20px;
+
+}
+
+.logo2 {
+    margin-left: 145px;
+}
+
+.text2 {
+    margin-left: 104px;
+    max-width: 480px;
+}
+
+.another_title > h2 {
+    margin-left: 145px;
+    font-size: 58px;
+    margin-top: 225px;
+}
+
+.three_little_pictures {
+    margin-top: 82px;
+}
+
+.pic1 {
+    margin-left: 145px;
+}
+
+.pic2 {
+    margin-left: 163px;
+}
+
+.pic3 {
+    margin-left: 163px;
+}
+
+.text333 {
+    margin-left: 145px;
+    max-width: 295px;
+    position: relative;
+    height: 330px;
+}
+
+.text777 {
+    margin-left: 68px;
+    max-width: 292px;
+    position: relative;
+    height: 330px;
+}
+
+.text999 {
+    margin-left: 71px;
+    max-width: 272px;
+    position: relative;
+    height: 330px;
+}
+
+.Pedro p {
+    position: absolute;
+    top: 65px;
+}
+
+.Pilar p {
+    position: absolute;
+    top: 65px;
+}
+
+.Juan p {
+    position: absolute;
+    top: 65px;
+}
+
+.chief_of_pink_button {
+    margin: 71px 0 0 145px;
+}
+
+.pink_button {
+    background: #be7873;
+    border-radius: 10px;
+    font-size: 18px;
+    box-sizing: border-box;
+    padding: 12px 30px 12px 30px;
+    color: black;
+    height: 50px;
+}
+
+.tender_block {
+    height: 705px;
+    background: #ffeadf;
+    margin-top: 126px;
+}
+
+.another_title2 h4 {
+    font-size: 58px;
+    margin-left: 145px;
+    padding-top: 88px;
+}
+
+.image1 {
+    margin-left: 145px;
+}
+
+.image2, .image3 {
+    margin-left: 54px;
+}
+
+.text33 {
+    margin-left: 145px;
+    max-width: 304px;
+    position: relative;
+    height: 230px;
+}
+
+.text77 {
+    margin-left: 59px;
+    max-width: 302px;
+    position: relative;
+    height: 230px;
+}
+
+.text99 {
+    margin-left: 61px;
+    max-width: 294px;
+    position: relative;
+    height: 230px;
+}
+
+.title_of_the_first_text, .title_of_the_second_text, .title_of_the_third_text {
+    font-size: 29px;
+}
+
+.text12 {
+    position: absolute;
+    bottom: 40px;
+    font-size: 18px;
+}
+
+.text13 {
+    position: absolute;
+    bottom: 40px;
+    font-size: 18px;
+}
+
+.text14 {
+    position: absolute;
+    bottom: 65px;
+    font-size: 18px;
+}
+
+.everything_does {
+    width: 1035px;
+    height: 450px;
+}
+
+.first_group_of_logos {
+    margin-top: 200px;
+}
+
+.logo1 img {
+    margin-left: 145px;
+}
+
+.logo11 img, .logo3 img, .logo4 img, .logo5 img, .logo6 img, .logo7 img, .logo8 img, .logo9 img, .logo10 img {
+    height: 80px;
+    width: 150px;
+}
+
+.logo11 img {
+    margin-left: 137px;
+}
+
+.logo3 img {
+    margin-left: 73px;
+}
+
+.logo4 img {
+    margin-left: 121px;
+}
+
+.second_group_of_logos {
+    margin-top: 80px;
+}
+
+.logo5 {
+    margin-left: 516px;
+}
+
+.logo6 {
+    margin-left: 78px;
+}
+
+.logo7 {
+    margin-left: 80px;
+}
+
+.third_group_of_logos {
+    margin-top: 80px;
+}
+
+.logo8 {
+    margin-left: 530px;
+}
+
+.logo9 {
+    margin-left: 88px;
+}
+
+.logo10 {
+    margin-left: 72px;
+}
+
+.fourth_content {
+    margin-top: 95px;
+}
+
+.text1111 {
+    margin: -5px 120px 1px 145px;
+    font-size: 20px;
+    max-width: 547px;
+}
+
+.text1111 h2 {
+    font-size: 58px;
+}
+
+.clickey {
+    background: #ffbcbe;
+    border-radius: 100px;
+    border: 1px solid #ffbcbe;
+    color: black;
+    height: 50px;
+    font-size: 18px;
+    padding: 12px 31px 12px 31px;
+}
+
+.lilbutton {
+    position: relative;
+    top: -50px;
+}
+
+.smalley {
+    position: absolute;
+    left: 145px;
+    top: -75px;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.blue_blockey {
+    width: 1150px;
+    height: 283px;
+    background: #0d8bff;
+    margin-left: 145px;
+    position: relative;
+}
+
+.title537 h6 {
+    padding: 89px 445px 0 90px;
+    font-size: 46px;
+    box-sizing: border-box;
+    height: 56px;
+    margin: 0;
+}
+
+.text537 {
+    padding: 48px 826px 89px 90px;
+    font-size: 20px;
+    height: 10px;
+}
+
+.clicko .clickey2 {
+    background: black;
+    border-radius: 100px;
+    border: 1px solid black;
+    color: white;
+    height: 50px;
+    width: 159px;
+    position: absolute;
+    margin: -100px 0 0 890px;
+}
+
+.footer {
+    height: 631px;
+    width: 1440px;
+    background: #2f2e2e;
+}
+
+.your_new_finance_team {
+    margin-left: 145px;
+}
+
+.image_of_a img {
+    width: 50px;
+    height: 50px;
+    margin-top: 45px;
+}
+
+.text198 p {
+    color: white;
+    font-size: 28px;
+    margin: 54px 0 0 18px;
+}
+
+.footer_items a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.45);
+    font-size: 16px;
+}
+
+.last1 {
+    margin-top: 55px;
+}
+
+.title91 {
+    color: rgba(255, 255, 255, 0.45);
+}
+
+.con .title91 p {
+    line-height: 1.5px;
+}
+
+.logo555_2 p, .logo555_3 p {
+    margin-left: 27px;
+}
+
+.last_logo img {
+    margin: -50px 0 0 526px;
+
+}
+
+
+
+
+
